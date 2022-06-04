@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91386b60-fef4-49f2-a802-0a6686729445/deploy-status)](https://app.netlify.com/sites/hundal/deploys)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
