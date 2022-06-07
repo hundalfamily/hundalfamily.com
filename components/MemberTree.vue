@@ -19,6 +19,20 @@
                       "
                       style="width: 120px; height: 120px"
                       v-bind:src="item.image"
+                      v-if="item.image"
+                    />
+                    <img
+                      class="
+                        inline-block
+                        object-cover
+                        w-12
+                        h-12
+                        rounded-full
+                        bg-amber-400
+                      "
+                      style="width: 120px; height: 120px"
+                      src="../assets/images/download.jpg"
+                      v-if="!item.image"
                     />
                     <!-- <span
                       class="
@@ -196,7 +210,7 @@ export default {
         children: this.getChildren(firstPerson.slug),
       });
 
-      console.log("seqData", this.seqData);
+      console.log("seqData", this.tree);
 
       this.showTreeDataInMobile = true;
 
@@ -217,7 +231,7 @@ export default {
   margin-top: 60px;
 }
 
-.text-center {
+.custom-text-center {
   text-align: center;
   margin-bottom: 32px;
 }
