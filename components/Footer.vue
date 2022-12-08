@@ -120,6 +120,9 @@
           <div class="text-gray-400 text-sm mr-4">
             &copy; 2022 Hundal Family. All rights reserved.
           </div>
+          <div class="text-gray-900 text-sm mr-4">
+            Made with <span class="heart color:#e25555">♥</span> by Whopper Technologies
+          </div>
         </div>
       </div>
     </div>
