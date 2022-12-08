@@ -4,5 +4,5 @@ name: Jagwinder Singh Hundal
 title: Jagwinder Singh Hundal
 email: jagwinder.singh@gmail.com
 shortbio: I am the administrator of Hundal Family
-authorimage: /images/team-member-05.jpg
+authorimage: /images/sikh-logo.png
 ---
