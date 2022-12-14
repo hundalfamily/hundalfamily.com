@@ -1,8 +1,8 @@
 ---
-createdAt: 2022-12-08T02:49:18.654Z
-name: Jagwinder Singh Hundal
+createdAt: 2022-12-14T05:37:31.787Z
+name: Joginder Singh Hundal
 birthdate: 1982-03-03
 image: /images/guru-character-vector.jpg
-nickname: jagwinderhundal
-starred: false
+nickname: joginderhundal
+starred: true
 ---
